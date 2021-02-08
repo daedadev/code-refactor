@@ -7,9 +7,9 @@ The purpose of this project was to take a pre-existing project, in this case a w
 
 ## Usage
 
-![Screenshot 1](assets/images/screenshot1.png)
+![Screenshot 1](assets/images/screenshot1.png?raw=true)
 
-![Screenshot 2](assets/images/screenshot2.png)
+![Screenshot 2](assets/images/screenshot2.png?raw=true)
 
 
 ## License

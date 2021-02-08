@@ -7,16 +7,16 @@ The purpose of this project was to take a pre-existing project, in this case a w
 
 ## Usage
 
-![Screenshot 1](assets/images/screenshot1.png?raw=true)
+![Screenshot 1](assets/images/screenshot1.PNG?raw=true)
 
-![Screenshot 2](assets/images/screenshot2.png?raw=true)
+![Screenshot 2](assets/images/screenshot2.PNG?raw=true)
 
 
 ## License
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Daniel Moore]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

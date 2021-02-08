@@ -7,6 +7,8 @@ The purpose of this project was to take a pre-existing project, in this case a w
 
 ## Usage
 
+Link to the finished webpage hosted on Git: https://wron1.github.io/code-refactor/
+
 Top section of the webpage
 ![Screenshot 1](assets/images/screenshot1.PNG?raw=true)
 

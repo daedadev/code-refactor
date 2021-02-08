@@ -4,10 +4,10 @@
 
 The purpose of this project was to take a pre-existing project, in this case a website, and optimize the code and improve the overall workflow of the website. My goal was to ensure all the application's links function correctly, all css selectors and properties are consolidated and organized, and finally to ensure tat the application's css is properly commented.
 
+Link to the finished webpage hosted on Git: https://wron1.github.io/code-refactor/
+
 
 ## Usage
-
-Link to the finished webpage hosted on Git: https://wron1.github.io/code-refactor/
 
 Top section of the webpage
 ![Screenshot 1](assets/images/screenshot1.PNG?raw=true)

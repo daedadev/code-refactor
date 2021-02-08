@@ -7,8 +7,10 @@ The purpose of this project was to take a pre-existing project, in this case a w
 
 ## Usage
 
+Top section of the webpage
 ![Screenshot 1](assets/images/screenshot1.PNG?raw=true)
 
+Bottom section of the webpage
 ![Screenshot 2](assets/images/screenshot2.PNG?raw=true)
 
 
